@@ -1,5 +1,14 @@
+Home:
+![image](https://github.com/user-attachments/assets/f08eb727-b6cd-471b-b582-4cc0d1e6d3c0)
 
+Features:
+![image](https://github.com/user-attachments/assets/110fde8e-6c21-4ec2-b4f9-0609500d97fe)
 
+Pricing:
+![image](https://github.com/user-attachments/assets/bf7366e7-dd13-4bca-b2cc-c8f7ff583968)
+
+Roadmap:
+![image](https://github.com/user-attachments/assets/c668efbc-816f-4bb0-ba97-28f68b14e2af)
 
 
 
